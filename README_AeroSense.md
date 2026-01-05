@@ -48,7 +48,7 @@ All results are shown through an interactive Streamlit dashboard.
 AeroSense/
 │
 ├── app.py
-├── city_day.csv                  # Main historical dataset (root me hi rahega)
+├── city_day.csv                  # Main historical dataset 
 ├── requirements.txt
 │
 ├── models/
